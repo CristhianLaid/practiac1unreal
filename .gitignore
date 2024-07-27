@@ -1,0 +1,24 @@
+# Binaries
+Binaries/
+
+# Build
+Build/
+
+# Intermediate
+Intermediate/
+
+# Saved
+Saved/
+
+# Logs
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj*
+*.vcxproj.filters
